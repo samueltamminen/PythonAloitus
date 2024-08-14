@@ -1,0 +1,2 @@
+# PythonAloitus
+Ekat python harjoitukset
